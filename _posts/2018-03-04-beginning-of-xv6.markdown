@@ -2,7 +2,7 @@
 layout: post
 title:  "xv6 初章"
 date:   2018-03-04 17:05:13 +0000
-categories: jekyll update os
+categories: os
 ---
 
 ###xv6 初章
