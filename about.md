@@ -3,4 +3,6 @@ layout: page
 title: About
 ---
 
-Something about me.
+- embedded software engineer
+- interested in Lego
+- lazy
