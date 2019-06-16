@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
-- embedded software engineer
-- interested in Lego
+- 
+embedded software engineer
+- interested in LEGO
 - lazy
